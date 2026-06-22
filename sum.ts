@@ -3,5 +3,6 @@ const sum = (a: number,  b: number) => {
 }
 
 const multiply = (a: number, b: number) => {
-  return a * b;
+  const c = a + b;
+  return c;
 }
