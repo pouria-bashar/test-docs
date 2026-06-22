@@ -22,4 +22,4 @@ Each top-level concept lives in its own numbered folder, with one Markdown file 
 ## Notes
 
 - These files are a snapshot of the upstream docs and may drift over time. The authoritative source is always [developers.cloudflare.com/agents](https://developers.cloudflare.com/agents/).
-- To refresh, re-fetch the `index.md` URL for each page from the [`llms.txt`](https://developers.cloudflare.com/agents/llms.txt) index..
+- To refresh, re-fetch the `index.md` URL for each page from the [`llms.txt`](https://developers.cloudflare.com/agents/llms.txt) index...
