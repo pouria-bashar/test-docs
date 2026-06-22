@@ -10,7 +10,7 @@ image: https://developers.cloudflare.com/dev-products-preview.png
 
 [Skip to content](#%5Ftop) 
 
-# Client tools !!!! Test !!!!
+# Client tools Test
 
 Think supports tools that execute in the browser. The client sends serializable tool schemas in the chat request body, Think merges them with server tools, and when the LLM calls a client tool, the call is routed to the client for execution.
 
