@@ -1,0 +1,24 @@
+{
+  "registryId": "REG-0004",
+  "documentId": "PROGRAMMATIC-SUBMISSIONS",
+  "title": "Programmatic Submissions",
+  "status": "draft",
+  "version": "1.0 (target)",
+  "author": {
+    "name": "Pouria Bashardoust",
+    "email": "pouria@sustainbit.com"
+  },
+  "approver": null,
+  "templateId": "acceptable-use-policy",
+  "classification": "Internal",
+  "satisfies": [],
+  "sourceBranch": "test-456",
+  "sourcePath": "01-think/programmatic-submissions.md",
+  "docPath": "/isms/registry/REG-0004/programmatic-submissions.md",
+  "effectiveDate": null,
+  "nextReview": "Annually, or on material change",
+  "effectiveCommitHash": null,
+  "changeLog": [],
+  "createdAt": "1 July 2026",
+  "createdBy": "pouria@sustainbit.com"
+}
