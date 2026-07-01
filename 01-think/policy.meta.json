@@ -2,13 +2,16 @@
   "registryId": "REG-0001",
   "documentId": "POLICY",
   "title": "Policy",
-  "status": "draft",
+  "status": "pending",
   "version": "1.0 (target)",
   "author": {
     "name": "Pouria Bashardoust",
     "email": "pouria@sustainbit.com"
   },
-  "approver": null,
+  "approver": {
+    "name": "Amir",
+    "email": "amir@sustainbit.com"
+  },
   "templateId": "acceptable-use-policy",
   "classification": "Internal",
   "satisfies": [],
@@ -18,7 +21,15 @@
   "effectiveDate": null,
   "nextReview": "Annually, or on material change",
   "effectiveCommitHash": null,
-  "changeLog": [],
+  "changeLog": [
+    {
+      "version": "1.0 (target)",
+      "date": "1 July 2026",
+      "type": "Submission",
+      "summary": "Test",
+      "commit": "pending"
+    }
+  ],
   "createdAt": "1 July 2026",
   "createdBy": "pouria@sustainbit.com"
 }
