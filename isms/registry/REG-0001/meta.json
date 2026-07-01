@@ -2,7 +2,7 @@
   "registryId": "REG-0001",
   "documentId": "GETTING-STARTED",
   "title": "Getting Started",
-  "status": "pending",
+  "status": "draft",
   "version": "1.0 (target)",
   "author": {
     "name": "Pouria Bashardoust",
@@ -25,9 +25,9 @@
     {
       "version": "1.0 (target)",
       "date": "1 July 2026",
-      "type": "Submission",
-      "summary": "Test",
-      "commit": "pending"
+      "type": "Rejected",
+      "summary": "Rejected: Test",
+      "commit": ""
     }
   ],
   "createdAt": "1 July 2026",
