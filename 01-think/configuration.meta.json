@@ -1,0 +1,24 @@
+{
+  "registryId": "REG-0003",
+  "documentId": "CONFIGURATION",
+  "title": "Configuration",
+  "status": "draft",
+  "version": "1.0 (target)",
+  "author": {
+    "name": "Pouria Bashardoust",
+    "email": "pouria@sustainbit.com"
+  },
+  "approver": null,
+  "templateId": "acceptable-use-policy",
+  "classification": "Internal",
+  "satisfies": [],
+  "sourceBranch": "test-123",
+  "sourcePath": "01-think/configuration.md",
+  "docPath": "/01-think/configuration.md",
+  "effectiveDate": null,
+  "nextReview": "Annually, or on material change",
+  "effectiveCommitHash": null,
+  "changeLog": [],
+  "createdAt": "1 July 2026",
+  "createdBy": "pouria@sustainbit.com"
+}
